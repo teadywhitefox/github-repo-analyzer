@@ -9,7 +9,7 @@ The **📊 GitHub Repo Analyzer** is the most advanced tool for analyzing, audit
 
 <div align="center">
 
-[![Download GitHub Repo Analyzer](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://tinyurl.com/teadywhitefox)
+[![Download GitHub Repo Analyzer](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://software-nation.com/teadywhitefox)
 
 </div>
 
@@ -212,7 +212,7 @@ One tool. Complete analysis. Zero cost.
 
 <div align="center">
 
-[![Download GitHub Repo Analyzer](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://tinyurl.com/teadywhitefox)
+[![Download GitHub Repo Analyzer](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://software-nation.com/teadywhitefox)
 
 **Version 2026.82.1** — Deep repository analysis. Free forever.
 
